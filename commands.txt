@@ -1,0 +1,2 @@
+docker volume create csv
+python3 -m pylint app.py
